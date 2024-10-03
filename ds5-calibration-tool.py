@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 #!/usr/bin/env python3
+=======
+III#!/usr/bin/env python3
+>>>>>>> Stashed changes
 
 import usb.core
 import usb.util
