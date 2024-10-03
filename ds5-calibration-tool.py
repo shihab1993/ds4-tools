@@ -1,4 +1,4 @@
-II#!/usr/bin/env python3
+#!/usr/bin/env python3
 
 import usb.core
 import usb.util
