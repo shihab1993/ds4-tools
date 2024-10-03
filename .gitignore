@@ -1,2 +1,4 @@
 .*.sw?
 venv
+*.py
+ds5-calibration-tool.py
